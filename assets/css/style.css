@@ -1,14 +1,18 @@
+/* global style properties start */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* Style properties of Body */
+/* global style properties end */
+
+/* style properties of body start */
 body {
     background-color: #d9dcd6;
 }
+/* style properties of body end */
 
-/* Header style Properties start*/
+/* Header style properties start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +28,7 @@ body {
 .seo {
     color: #d9dcd6;
 }
+/* Header style properties end */
 
 /* Header Navigation bar properties start */
 .header nav {
@@ -44,10 +49,11 @@ body {
     text-decoration: none;
     color: #ffffff;
 }
-
 /* Header Navigation Bar Properties End */
+
 /* Header Style Properties end */
 
+/* Hero portion of page style properties start */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,8 +66,9 @@ body {
 .hero p {
     font-size: 16px;
 }
+/* Hero portion of page style properties end */
 
-/* Style Properties for Search engine/Online Reputation/Social Media and aside bar */
+/* Style Properties for Search engine/Online Reputation/Social Media and aside bar start */
 
 .content {
     width: 75%;
@@ -99,7 +106,7 @@ body {
     font-size: 36px;
 }
 
-/* Section stlye elements for Search Engine Optimization, Online Reputation, and Social Media Marketing */
+/* Section stlye elements for Search Engine Optimization, Online Reputation, and Social Media Marketing end */
 
 /* Aside Bar Style Properties Start */
 
@@ -130,11 +137,9 @@ body {
     max-width: 150px;
 }
 
-/* Old Aside Bar Style Properties */
+/* Aside Bar Style Properties end */
 
-
-
-/* Aside Bar Style Properties Start */
+/* Style Properties for Search engine/Online Reputation/Social Media and aside bar end */
 
 /* Footer Style Properties Start */
 .footer {
@@ -144,7 +149,7 @@ body {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
 /* Footer Style Properties End */
