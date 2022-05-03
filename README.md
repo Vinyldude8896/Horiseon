@@ -1,6 +1,6 @@
 # Challenge1
 # Horiseon
-<!-- Horiseon HTML and CSS page has been refactored to follow accessibility standards and optoimized for search engines.
+Horiseon HTML and CSS page has been refactored to follow accessibility standards and optoimized for search engines.
 
 To meet the given requirements below (client requirements) I have :
     in HTML file:
@@ -12,12 +12,12 @@ To meet the given requirements below (client requirements) I have :
     made sure links were working properly
     commented code
 
-    In CSS file:
+   In CSS file:
     organized CSS structure 
     Consolidated CSS style property declarations
     commented CSS code
 
-    Website:
+   Website:
     Tested live updated version of site to ensure working properly and proper layout-->
 
 <!--Link to page-->
