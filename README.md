@@ -1,10 +1,7 @@
 # Challenge1
 # Horiseon
-<<<<<<< HEAD
-<p> Horiseon HTML and CSS page has been refactored to follow accessibility standards and optoimized for search engines.
-=======
+
 Horiseon HTML and CSS page has been refactored to follow accessibility standards and optoimized for search engines.
->>>>>>> c24bd02310a4afe2097356690107bb2ecb461250
 
 To meet the given requirements below (client requirements) I have :
     in HTML file:
@@ -23,15 +20,10 @@ To meet the given requirements below (client requirements) I have :
 
    Website:
     Tested live updated version of site to ensure working properly and proper layout-->
-<<<<<<< HEAD
-<p>
-<!--Link to page-->
-=======
 
 Link to page https://vinyldude8896.github.io/Horiseon-Week-1-Challenge/#search-engine-optimization
->>>>>>> c24bd02310a4afe2097356690107bb2ecb461250
 
-<!--screenshots-->
+screenshots
 
 <img width="1420" alt="Screenimage1" src="https://user-images.githubusercontent.com/101418282/166471055-69cc94e5-37ca-4477-8111-df17d524152f.png">
 
