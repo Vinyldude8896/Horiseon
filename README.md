@@ -1,6 +1,6 @@
 # Challenge1
 # Horiseon
-<!-- Horiseon HTML and CSS page has been refactored to follow accessibility standards and optoimized for search engines.
+<p> Horiseon HTML and CSS page has been refactored to follow accessibility standards and optoimized for search engines.
 
 To meet the given requirements below (client requirements) I have :
     in HTML file:
@@ -19,7 +19,7 @@ To meet the given requirements below (client requirements) I have :
 
     Website:
     Tested live updated version of site to ensure working properly and proper layout-->
-
+<p>
 <!--Link to page-->
 
 <!--screenshots-->
