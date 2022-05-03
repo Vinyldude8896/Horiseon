@@ -20,7 +20,7 @@ To meet the given requirements below (client requirements) I have :
    Website:
     Tested live updated version of site to ensure working properly and proper layout-->
 
-<!--Link to page-->
+Link to page https://vinyldude8896.github.io/Horiseon-Week-1-Challenge/#search-engine-optimization
 
 <!--screenshots-->
 
