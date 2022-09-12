@@ -1,9 +1,12 @@
 # Horiseon
 
-### This web page was designed for a marketing, management and optimization company. It features a full landing oage with nav bar to each section explaining what they do.
+### User Story
 
-### This project will use IndexedDB as well as webpack and service worker to be able to be ran without an internet connection. YOu can run the application on heroku or clone the repo and run it in your localhost environment.
+As the owener of a company looking for as new website, I would like a web page that is visually appealing and easy to navigate. I would like a navigation bar that provides easy links to our different organization solutions for businesses.
 
+### Features
+This web application features a hero section with business image.
+This web application features a navigation bar that will take the user to three sifferent sections: 'Search Engine Optimization", "Online Reputation Management" and "Social Media Marketing"
 ### badges
 ![HTML](https://img.shields.io/badge/HTML-License-blue)
 ![CSS](https://img.shields.io/badge/CSS-License-yellowgreen)
