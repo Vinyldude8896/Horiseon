@@ -1,32 +1,48 @@
-# Challenge1
 # Horiseon
 
-Horiseon HTML and CSS page has been refactored to follow accessibility standards and optoimized for search engines.
+### This web page was designed for a marketing, management and optimization company. It features a full landing oage with nav bar to each section explaining what they do.
 
-To meet the given requirements below (client requirements) I have :
-    in HTML file:
-    used semantic HTML elements
-    made sure elements follow proper structure
-    added alt descriptions to images
-    made sure headers are in sequential order
-    added description to the title
-    made sure links were working properly
-    commented code
+### This project will use IndexedDB as well as webpack and service worker to be able to be ran without an internet connection. YOu can run the application on heroku or clone the repo and run it in your localhost environment.
 
-   In CSS file:
-    organized CSS structure 
-    Consolidated CSS style property declarations
-    commented CSS code
+### badges
+![HTML](https://img.shields.io/badge/HTML-License-blue)
+![CSS](https://img.shields.io/badge/CSS-License-yellowgreen)
 
-   Website:
-    Tested live updated version of site to ensure working properly and proper layout-->
 
-Link to page https://vinyldude8896.github.io/Horiseon-Week-1-Challenge/#search-engine-optimization
+## Table of Contents
 
-screenshots
+- [installation](#installation)
+- [contribution guidelines](#contribution)
+- [Test Instructions](#testing)
+- [License](#license)
+- [Questions](#questions)
 
-<img width="1420" alt="Screenimage1" src="https://user-images.githubusercontent.com/101418282/166471055-69cc94e5-37ca-4477-8111-df17d524152f.png">
+### Installation
+Installation: 
+Clone Repository
+git clone https://github.com/Vinyldude8896/Horiseon
+ 
 
-<img width="1396" alt="Screenimage2" src="https://user-images.githubusercontent.com/101418282/166471126-18c60db4-0266-4544-8047-ef371ceb7474.png">
+Install Dependencies
 
-<img width="1418" alt="Screenimage3" src="https://user-images.githubusercontent.com/101418282/166471156-ddff8923-2702-4ce9-a1da-c8d323c58f02.png">
+There are no install dependecies for this project
+
+Right click the index.html file and view in live server.
+
+
+
+### Contribution Guidelines
+N/A as of yet
+### Testing
+To test this app:
+1. Clone the repo here : https://github.com/Vinyldude8896/Just_A_Text_Editor
+2. Open the index.html file using live server
+
+### Questions
+    email address : kevinnivek@me.com
+    - additional instructions 
+    I can be contacted by phone as well, but prefer email contact first.
+
+### Images of example readme.md
+
+<img src="./assets/images/horiseon.jpg" alt="Getting started">
